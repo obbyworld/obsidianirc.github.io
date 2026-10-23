@@ -1,1 +1,0 @@
-import{aa as r}from"./index-DQW5oXeK.js";import"./vendor-react-Ce9AAll7.js";import"./vendor-markdown-Ch1nGgu1.js";import"./vendor-zustand-BBk_NvDn.js";async function p(){await r("plugin:process|restart")}export{p as relaunch};
